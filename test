@@ -1,0 +1,38 @@
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8">
+    <title>九宫格</title>
+    <style type="text/css">
+         div{width: 100px; height:100px; background:orange; border:1px solid:white;}
+
+    .k{
+        display: inline-block;border-radius:12px;
+    }
+    
+    </style>
+
+</head>
+
+<body>
+<div class="k"></div>
+
+<div class="k"></div>
+
+<div class="k"></div>
+<br/>
+
+<div class="k"></div>
+
+<div class="k"></div>
+
+<div class="k"></div>
+<br/>
+
+<div class="k"></div>
+
+<div class="k"></div>
+
+<div class="k"></div>
+
+</body>
+</html>
